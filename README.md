@@ -1,7 +1,7 @@
 # KRZ-PLSQL-Project
 Project created for my Database Coure
 
-#Employee Attendance Tracking
+# Employee Attendance Tracking
 
 This employee attendance tracking database was created in order to make managing
 a large array of employees easier, it can track many important managerial variables like
